@@ -54,6 +54,13 @@ Features
 - Database-driven inventory system
 
 ---
+## 🎥 Project Demo
+
+Watch the application demo here:
+
+ *https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto*
+
+---
 
 
 ##  Learning Outcomes
