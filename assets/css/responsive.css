@@ -1,0 +1,72 @@
+/* Account Page */
+@media (max-width: 768px) {
+    .account-content {
+        flex-direction: column;
+    }
+    
+    .account-sidebar {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .form-row {
+        flex-direction: column;
+    }
+    
+    .form-row .form-group {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+
+/* Cart Page */
+@media (max-width: 768px) {
+    .cart-content {
+        flex-direction: column;
+    }
+    
+    .cart-items {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+    .cart-summary {
+        width: 100%;
+    }
+    
+    table {
+        display: block;
+        overflow-x: auto;
+    }
+    
+    .product-info {
+        flex-direction: column;
+    }
+    
+    .product-info img {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}
+
+/* Admin Dashboard */
+@media (max-width: 992px) {
+    .admin-container {
+        flex-direction: column;
+    }
+    
+    .admin-sidebar {
+        width: 100%;
+    }
+    
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .products-table {
+        display: block;
+        overflow-x: auto;
+    }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Men's Casual Shirt</name>
+        <description>Comfortable casual shirt for men, perfect for everyday wear.</description>
+        <price>29.99</price>
+        <category>men</category>
+        <image>mens-shirt.jpg</image>
+        <stock>50</stock>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Women's Summer Dress</name>
+        <description>Light and airy summer dress for women, available in multiple colors.</description>
+        <price>39.99</price>
+        <category>women</category>
+        <image>womens-dress.jpg</image>
+        <stock>35</stock>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Kids' Denim Jacket</name>
+        <description>Stylish denim jacket for children, durable and comfortable.</description>
+        <price>24.99</price>
+        <category>children</category>
+        <image>kids-jacket.jpg</image>
+        <stock>20</stock>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Men's Formal Suit</name>
+        <description>Elegant formal suit for men, perfect for special occasions.</description>
+        <price>129.99</price>
+        <category>men</category>
+        <image>mens-suit.jpg</image>
+        <stock>15</stock>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Women's Handbag</name>
+        <description>Fashionable handbag for women with multiple compartments.</description>
+        <price>49.99</price>
+        <category>women</category>
+        <image>womens-bag.jpg</image>
+        <stock>25</stock>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Kids' Sneakers</name>
+        <description>Comfortable sneakers for children, available in various colors.</description>
+        <price>34.99</price>
+        <category>children</category>
+        <image>kids-shoes.jpg</image>
+        <stock>30</stock>
+    </product>
+</products>
